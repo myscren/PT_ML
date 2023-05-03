@@ -47,7 +47,7 @@ python SSRF_main.py
 ```
 ## Authors
 
-* **G. Chen** - *first author* - [G. Chen](https://grzy.cug.edu.cn/chenguoxiong)
+* **G. Chen** - *first author* - [GUOXIONG CHEN](https://grzy.cug.edu.cn/chenguoxiong)
 
 To see more about the contributors to this project, please read the [paper](https://XXXXXX).
 
