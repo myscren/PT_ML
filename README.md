@@ -33,6 +33,15 @@ The python codes require the Python complier installed on the PC or Laptop compu
 * Run the python codes in [code files](#code-files)
 
 Example:
-```sh
-python rf.py
+run PCA_main.py:
+```
+python PCA_main.py
+```
+run RF_main.py:
+```
+python RF_main.py
+```
+run SSRF_main.py:
+```
+python SSRF_main.py
 ```
