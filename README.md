@@ -4,9 +4,9 @@ This repository contains data source and codes used in the paper entitled "Hadea
 ## Data files
 * [Data](/data source/) -- We combined recently compiled zircon TE chemistry data (P, Ti, Hf, Th, U, Y, and REEs [excluding Pr]) from previous publications (e.g., Borisova et al., 2022; Carley et al., 2022; Cavosie et al., 2006; Tang et al., 2021; references therein). Samples with La >1 ppm, (Dy/Nd) + (Dy/Sm) ≤ 30, and outliers with >mean +3*δ were filtered in order to eliminate the altered zircons and statistical deviation of the compiled geochemical database, and ~6000 zircon analyses were used in this study. This database contians three training dataset used for ML or semi-supervised ML for distinguishing zircons formed in continental and oceanic crust, seven detailed tectonic environments, and S and I type granites.
 ## Code files
-* [rf.py](/codes/rf.py) -- Predicting tectonic environment and granite type using Random Forests with zircon TE chemistry data.
-* [semi_rf.py](/codes/semi_rf) -- Predicting tectonic environment and granite type using semi-supervised Random Forests with zircon TE chemistry data.
-* [PCa,kernel,decision_boundary.py](/codes/PCa,kernel,decision_boundary.py) -- PCA and decision_boundary methods with zircon TE chemistry data.
+* [PCA_main.py](/codes/PCA_main.py) -- Principle component analysis of zircon TE chemistry data.
+* [RF_main.py](/codes/RF.py) -- Tectono-magmatic provenances analysis of zircons using Random Forests based on zircon TE chemistry data. Please note that other ML algorihtms, including Support Vector Machine (SVM), and Artificial Neural Network (ANN), XGBoost, K-NearestNeighbor (KNN), was implemented through this code file. 
+* [SSRF_main.py](/codes/SSRF.py) -- Tectono-magmatic provenances analysis of zircons using Semi-supervised Random Forests based on zircon TE chemistry data.
 ## User guide
 To get a local copy up and running, please follow these simple steps.
 ### Prerequisites
