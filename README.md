@@ -53,4 +53,4 @@ To see more about the contributors to this project, please read the [paper](http
 
 ## License
 
-XXXXXX is licensed under the MIT License. See the LICENSE file for more details.
+PT_ML is licensed under the MIT License. See the LICENSE file for more details.
