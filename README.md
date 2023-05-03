@@ -22,8 +22,8 @@ shap == 0.41.0
 ```
 ### Download from Github
 ```sh
-git clone https://github.com/myscren/XXXXXX.git
-cd XXXXXX
+git clone https://github.com/myscren/PT_ML.git
+cd PT_ML
 ```
 ### Running the codes
 
