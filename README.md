@@ -45,3 +45,12 @@ run SSRF_main.py:
 ```
 python SSRF_main.py
 ```
+## Authors
+
+* **G. Chen** - *first author* - [G. Chen](https://grzy.cug.edu.cn/chenguoxiong)
+
+To see more about the contributors to this project, please read the [paper](https://XXXXXX).
+
+## License
+
+XXXXXX is licensed under the MIT License. See the LICENSE file for more details.
