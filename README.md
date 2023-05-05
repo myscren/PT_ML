@@ -48,11 +48,7 @@ run SSRF_main.py:
 python SSRF_main.py
 ```
 ### Demo
-Feature importance:  
-
-<div align=center>
-<img src="/doc/rf.png">
-</div>
+Feature importance (SSRF):  
 
 <div align=center>
 <img src="/doc/ssrf.png">
