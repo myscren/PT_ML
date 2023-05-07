@@ -58,7 +58,7 @@ PCA of zircon composition:
 Feature importance (SSRF):  
 
 <div align=center>
-<img src="/doc/SSRF.png" width="600" height="500">
+<img src="/doc/SSRF.png" width="500" height="500">
 </div>  
 
 ## Authors
