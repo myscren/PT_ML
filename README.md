@@ -48,17 +48,18 @@ run SSRF_main.py:
 python SSRF_main.py
 ```
 ### Demo
-Feature importance (SSRF):  
-
-<div align=center>
-<img src="/doc/SSRF.png">
-</div>  
 
 PCA of zircon composition:    
 
 <div align=center>
 <img src="/doc/PCA.svg" width="600" height="500">
 </div>
+
+Feature importance (SSRF):  
+
+<div align=center>
+<img src="/doc/SSRF.png">
+</div>  
 
 ## Authors
 
